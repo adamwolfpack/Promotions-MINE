@@ -5,7 +5,6 @@
 		"uniques": ["[+1] additional attacks per turn"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"]
 	},
-
 	{
 		"name": "Flight Deck I",
 		"uniques": ["Can carry [+1] extra [Aircraft] units"],
@@ -23,7 +22,6 @@
 		"uniques": ["Can carry [+1] extra [Aircraft] units"],
 		"unitTypes": ["Aircraft Carrier"]
 	},
-
 	{
 		"name": "Evasion",
 		"prerequisites": ["Siege II", "Bombardment II"],
