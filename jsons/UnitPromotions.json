@@ -13,19 +13,19 @@
 	{
 		"name": "Flight Deck II",
 		"prerequisites": ["Flight Deck I"],
-		"uniques": ["Can carry [+1] extra [Aircraft] units"],
+		"uniques": ["Can carry [+2] extra [Aircraft] units"],
 		"unitTypes": ["Aircraft Carrier"]
 	},
 	{
 		"name": "Flight Deck III",
 		"prerequisites": ["Flight Deck II"],
-		"uniques": ["Can carry [+1] extra [Aircraft] units"],
+		"uniques": ["Can carry [+3] extra [Aircraft] units"],
 		"unitTypes": ["Aircraft Carrier"]
 	},
 	{
 		"name": "Evasion",
 		"prerequisites": ["Siege II", "Bombardment II"],
-		"uniques": ["Damage taken from interception reduced by [+50]%"],
+		"uniques": ["Damage taken from interception reduced by [+70]%"],
 		"unitTypes": ["Bomber"]
 	},
 	{
